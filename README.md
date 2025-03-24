@@ -30,7 +30,7 @@
 ---
 
 ### 📊 GitHub Vibes
-![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-kanishkamaingi&show_icons=true&theme=tokyonight)  
+![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkamaingi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkamaingi&layout=compact&theme=tokyonight)
 
 ---
