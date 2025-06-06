@@ -8,7 +8,7 @@
 ### 🔥 About Me
 - 🎓 **Computer Programming Graduate** from Seneca College
 - 💻 Passionate about **backend development, algorithms, and building scalable apps**
-- 🚀 Currently **hunting for my next tech adventure** (a.k.a. a full-time dev role!)
+- 🚀 Currently **hunting for my next tech adventure**
 - 🛠 Always exploring **new tech stacks & open-source projects**
 - ☕ Fueled by **~coffee~ tea and debugging sessions**
 
@@ -23,15 +23,15 @@
 ---
 
 ### 🌎 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](kanishkamaingi.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)] 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-maingi)  
 💌 **Email me:** [Kanishkamaingi21@gmail.com](mailto:Kanishkamaingi21@gmail.com)
 
 ---
 
 ### 📊 GitHub
-![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkamaingi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkamaingi&layout=compact&theme=tokyonight)
+//![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkamaingi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkamaingi&layout=compact&theme=tokyonight)
 
 ---
 
