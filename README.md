@@ -29,10 +29,4 @@
 
 ---
 
-### 📊 GitHub
-//![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkamaingi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkamaingi&layout=compact&theme=tokyonight)
-
----
-
 🚀 **Fun Fact:** My debugging skills are 50% skill, 50% luck, and 100% perseverance! 😆
