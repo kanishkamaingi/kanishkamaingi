@@ -23,7 +23,6 @@
 ---
 
 ### 🌎 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)] 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-maingi)  
 💌 **Email me:** [Kanishkamaingi21@gmail.com](mailto:Kanishkamaingi21@gmail.com)
 
